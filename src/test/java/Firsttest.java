@@ -10,6 +10,7 @@ public class Firsttest {
     public void startgoogle(){
         wd = new ChromeDriver();
         wd.get("https://www.google.co.il/");
+        
     }
 
 }
